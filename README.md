@@ -25,6 +25,7 @@ https://huggingface.co/spaces/Major-TOM/MajorTOM-Core-Viewer
 This project has been outlined in [https://arxiv.org/abs/2402.12095/](https://arxiv.org/abs/2402.12095/).
 <details>
 <summary>Read Abstract</summary>
+
   
   > Deep learning models are increasingly data-hungry, requiring significant resources to collect and compile the datasets needed to train them, with Earth Observation (EO) models being no exception. However, the landscape of datasets in EO is relatively atomised, with interoperability made difficult by diverse formats and data structures. If ever larger datasets are to be built, and duplication of effort minimised, then a shared framework that allows users to combine and access multiple datasets is needed. Here, Major TOM (Terrestrial Observation Metaset) is proposed as this extensible framework. Primarily, it consists of a geographical indexing system based on a set of grid points and a metadata structure that allows multiple datasets with different sources to be merged. Besides the specification of Major TOM as a framework, this work also presents a large, open-access dataset, MajorTOM-Core, which covers the vast majority of the Earth's land surface. This dataset provides the community with both an immediately useful resource, as well as acting as a template for future additions to the Major TOM ecosystem.
 </details>
